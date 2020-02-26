@@ -3,7 +3,7 @@
     "files": [
       {
         "merger": "YAML",
-        "pattern": ".github/workflws/*.yml",
+        "pattern": ".github/workflows/*.yml",
         "options": {
           "messagePrefix": "chore(github): ",
           "mergeHints": {
