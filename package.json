@@ -1,3 +1,25 @@
 {
-    
+  "template": {
+    "files": [
+      {
+        "merger": "YAML",
+        "pattern": ".github/workflws/*.yml",
+        "options": {
+          "messagePrefix": "chore(github): ",
+          "mergeHints": {
+            "*": {
+              "scope": "github",
+              "removeEmpty": true
+            },
+            "Jobs": {
+              "orderBy": [
+                "Test",
+                "Release"
+              ]
+            }
+          }
+        }
+      }
+    ]
+  }
 }
