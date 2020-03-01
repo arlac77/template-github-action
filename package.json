@@ -1,5 +1,6 @@
 {
   "template": {
+    "inheridFrom": ["arlac77/template-github"],
     "mergers": [
       {
         "type": "YAML",
