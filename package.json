@@ -1,6 +1,8 @@
 {
   "template": {
-    "inheridFrom": ["arlac77/template-github"],
+    "inheridFrom": [
+      "arlac77/template-github"
+    ],
     "mergers": [
       {
         "type": "YAML",
@@ -21,6 +23,9 @@
           }
         }
       }
+    ],
+    "usedBy": [
+      "Kronos-Integration/endpoint"
     ]
   }
 }
