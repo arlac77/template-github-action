@@ -5,7 +5,7 @@ jobs:
     runs-on: ${{ matrix.os }}
     strategy:
       matrix:
-        node-version: [12,-13,14]
+        node-version: [-12,-13,14]
         os: [ubuntu-latest, windows-latest, macOS-latest]
     steps:
     - uses: actions/checkout@v1
@@ -13,7 +13,6 @@ jobs:
       with:
         node-version: ${{ matrix.node-version }}
     - run: 'npm i'
-    - '--delete-- run: npm cover'
     - run: 'npm run cover'
       env:
         CI: true
@@ -21,7 +20,7 @@ jobs:
     runs-on: ${{ matrix.os }}
     strategy:
       matrix:
-        node-version: [12]
+        node-version: [-12,14]
         os: [ubuntu-latest]
     steps:
     - uses: actions/setup-node@v1
