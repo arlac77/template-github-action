@@ -29,7 +29,7 @@
         "options": {
           "badges": [
             {
-              "name": "Build Status",
+              "name": "Build Action Status",
               "icon": "https://img.shields.io/endpoint.svg?url=https%3A%2F%2Factions-badge.atrox.dev%2F{{github.user}}%2F{{github.repo}}%2Fbadge&style=flat",
               "url": "https://actions-badge.atrox.dev/{{github.user}}/{{github.repo}}/goto",
               "order" : 0.21
