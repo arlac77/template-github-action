@@ -13,19 +13,6 @@
             "*": {
               "scope": "github",
               "removeEmpty": true
-            },
-            "*steps": {
-              "key" : "name",
-              "orderBy": [
-                "Test",
-                "Release"
-              ]
-            },
-            "Jobs": {
-              "orderBy": [
-                "Test",
-                "Release"
-              ]
             }
           }
         }
