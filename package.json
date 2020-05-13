@@ -34,6 +34,7 @@
     ],
     "usedBy": [
       "Kronos-Integration/interceptor-line-header",
+      "Kronos-Integration/interceptor-line-parser",
       "Kronos-Integration/service"
     ]
   }
