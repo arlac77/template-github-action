@@ -37,6 +37,7 @@
       "Kronos-Integration/interceptor-line-parser",
       "Kronos-Integration/service",
       "Kronos-Integration/service-admin",
+      "Kronos-Integration/service-consul",
       "Kronos-Integration/service-http",
       "Kronos-Integration/service-ldap",
       "Kronos-Integration/service-swarm"
