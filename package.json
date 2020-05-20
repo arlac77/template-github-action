@@ -39,6 +39,7 @@
       "Kronos-Integration/interceptor-line-header",
       "Kronos-Integration/interceptor-line-parser",
       "Kronos-Integration/interceptor-line-tokenizer-csv",
+      "Kronos-Integration/interceptor-message-handler",
       "Kronos-Integration/service",
       "Kronos-Integration/service-admin",
       "Kronos-Integration/service-authenticator",
