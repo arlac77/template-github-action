@@ -13,6 +13,9 @@
             "*": {
               "scope": "github",
               "removeEmpty": true
+            },
+            "*.node_version": {
+              "merge": "mergeVersionsPreferNumeric"
             }
           }
         }
