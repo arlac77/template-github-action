@@ -42,6 +42,7 @@
       "Kronos-Integration/interceptor-line-tokens2obj",
       "Kronos-Integration/interceptor-message-handler",
       "Kronos-Integration/interceptor-object-data-processor-row",
+      "Kronos-Integration/message",
       "Kronos-Integration/service",
       "Kronos-Integration/service-admin",
       "Kronos-Integration/service-authenticator",
