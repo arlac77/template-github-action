@@ -8,15 +8,17 @@
         "type": "YAML",
         "pattern": ".github/workflows/*.yml",
         "options": {
-          "messagePrefix": "chore(github): ",
+          "messagePrefix": "chore(actions): ",
           "mergeHints": {
             "*": {
-              "scope": "github",
               "removeEmpty": true
             },
             "*.node-version": {
               "scope": "deps",
               "merge": "mergeVersionsPreferNumeric"
+            },
+            "*.steps": {
+              "key": "id|name|uses|run"
             }
           }
         }
