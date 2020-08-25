@@ -5,6 +5,10 @@
     ],
     "mergers": [
       {
+        "type": "Skip",
+        "pattern": ".travis.yml"
+      },
+      {
         "type": "YAML",
         "pattern": ".github/workflows/*.yml",
         "options": {
