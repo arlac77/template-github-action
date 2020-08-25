@@ -61,7 +61,8 @@
       "Kronos-Integration/service-logger-gelf",
       "Kronos-Integration/service-swarm",
       "Kronos-Integration/service-systemd",
-      "arlac77/entitlement-provider-frontend"
+      "arlac77/entitlement-provider-frontend",
+      "arlac77/system-dashboard-frontend"
     ]
   }
 }
