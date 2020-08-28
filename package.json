@@ -5,6 +5,10 @@
     ],
     "mergers": [
       {
+        "type": "Skip",
+        "pattern": ".travis.yml"
+      },
+      {
         "type": "YAML",
         "pattern": ".github/workflows/*.yml",
         "options": {
@@ -56,7 +60,14 @@
       "Kronos-Integration/service-ldap",
       "Kronos-Integration/service-logger-gelf",
       "Kronos-Integration/service-swarm",
-      "Kronos-Integration/service-systemd"
+      "Kronos-Integration/service-systemd",
+      "arlac77/SymatemExplorer",
+      "arlac77/component-template-designer",
+      "arlac77/entitlement-provider-frontend",
+      "arlac77/hook-ci-frontend-svelte",
+      "arlac77/konsum-frontend-svelte",
+      "arlac77/npm-navigator",
+      "arlac77/system-dashboard-frontend"
     ]
   }
 }
