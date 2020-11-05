@@ -61,6 +61,7 @@
       "Kronos-Integration/service-logger-gelf",
       "Kronos-Integration/service-swarm",
       "Kronos-Integration/service-systemd",
+      "Kronos-Integration/test-interceptor",
       "arlac77/SymatemExplorer",
       "arlac77/component-template-designer",
       "arlac77/entitlement-provider-frontend",
