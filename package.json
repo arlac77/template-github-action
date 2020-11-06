@@ -69,6 +69,7 @@
       "arlac77/konsum-frontend-svelte",
       "arlac77/npm-navigator",
       "arlac77/system-dashboard-frontend",
+      "bitdiver/model",
       "k0nsti/konsum-db"
     ]
   }
