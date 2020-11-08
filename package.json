@@ -12,7 +12,7 @@
         "type": "YAML",
         "pattern": ".github/pr_labeler.yml",
         "options": {
-          "messagePrefix": "chore: "
+          "messagePrefix": "chore(labels): "
         }
       },
       {
