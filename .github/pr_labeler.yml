@@ -11,3 +11,6 @@ ci:
 
 npm:
   - .npmignore
+
+deployment:
+  - netlify.toml

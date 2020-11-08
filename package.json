@@ -10,6 +10,13 @@
       },
       {
         "type": "YAML",
+        "pattern": ".github/pr_labeler.yml",
+        "options": {
+          "messagePrefix": "chore: "
+        }
+      },
+      {
+        "type": "YAML",
         "pattern": ".github/workflows/*.yml",
         "options": {
           "messagePrefix": "chore(actions): ",
