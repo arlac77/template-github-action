@@ -50,7 +50,6 @@
       }
     ],
     "usedBy": [
-      "arlac77/template-arlac77-github",
       "Kronos-Integration/interceptor-line-header",
       "Kronos-Integration/interceptor-line-parser",
       "Kronos-Integration/interceptor-line-tokenizer-csv",
@@ -76,7 +75,9 @@
       "arlac77/hook-ci-frontend-svelte",
       "arlac77/konsum-frontend-svelte",
       "arlac77/npm-navigator",
+      "arlac77/repository-provider-test-support",
       "arlac77/system-dashboard-frontend",
+      "arlac77/template-arlac77-github",
       "k0nsti/konsum-db"
     ]
   }
