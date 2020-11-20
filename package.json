@@ -50,6 +50,7 @@
       }
     ],
     "usedBy": [
+      "arlac77/template-arlac77-github",
       "Kronos-Integration/interceptor-line-header",
       "Kronos-Integration/interceptor-line-parser",
       "Kronos-Integration/interceptor-line-tokenizer-csv",
