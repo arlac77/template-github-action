@@ -50,7 +50,6 @@
       }
     ],
     "usedBy": [
-      "arlac77/template-arlac77-github",
       "Kronos-Integration/interceptor-line-header",
       "Kronos-Integration/interceptor-line-parser",
       "Kronos-Integration/interceptor-line-tokenizer-csv",
@@ -72,11 +71,13 @@
       "Kronos-Integration/test-interceptor",
       "arlac77/SymatemExplorer",
       "arlac77/component-template-designer",
+      "arlac77/config-expander",
       "arlac77/entitlement-provider-frontend",
       "arlac77/hook-ci-frontend-svelte",
       "arlac77/konsum-frontend-svelte",
       "arlac77/npm-navigator",
       "arlac77/system-dashboard-frontend",
+      "arlac77/template-arlac77-github",
       "k0nsti/konsum-db"
     ]
   }
