@@ -76,6 +76,7 @@
       "arlac77/entitlement-provider-frontend",
       "arlac77/env-auth-provider",
       "arlac77/expression-expander",
+      "arlac77/fs-resolver-fs",
       "arlac77/hook-ci-frontend-svelte",
       "arlac77/konsum-frontend-svelte",
       "arlac77/npm-navigator",
