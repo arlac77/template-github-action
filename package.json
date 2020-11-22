@@ -73,6 +73,7 @@
       "arlac77/component-template-designer",
       "arlac77/config-expander",
       "arlac77/console-auth-provider",
+      "arlac77/dns-playground",
       "arlac77/entitlement-provider-frontend",
       "arlac77/env-auth-provider",
       "arlac77/hook-ci-frontend-svelte",
