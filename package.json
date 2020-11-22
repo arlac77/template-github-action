@@ -72,6 +72,7 @@
       "arlac77/SymatemExplorer",
       "arlac77/component-template-designer",
       "arlac77/config-expander",
+      "arlac77/console-auth-provider",
       "arlac77/entitlement-provider-frontend",
       "arlac77/hook-ci-frontend-svelte",
       "arlac77/konsum-frontend-svelte",
