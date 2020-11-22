@@ -77,6 +77,7 @@
       "arlac77/env-auth-provider",
       "arlac77/expression-expander",
       "arlac77/hook-ci-frontend-svelte",
+      "arlac77/koa-github-hook-handler",
       "arlac77/konsum-frontend-svelte",
       "arlac77/npm-navigator",
       "arlac77/system-dashboard-frontend",
