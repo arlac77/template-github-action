@@ -13,6 +13,9 @@ ci:
   - ".github/workflows/*"
   - .travis.yml
 
+github:
+  - ".github/**/*"
+
 git:
   - .gitignore
 
