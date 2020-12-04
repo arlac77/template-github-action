@@ -50,7 +50,6 @@
       }
     ],
     "usedBy": [
-      "Kronos-Integration/interceptor-line-parser",
       "arlac77/SymatemExplorer",
       "arlac77/component-template-designer",
       "arlac77/config-expander",
