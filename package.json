@@ -62,7 +62,6 @@
       "Kronos-Integration/service-http",
       "Kronos-Integration/service-ldap",
       "Kronos-Integration/service-logger-gelf",
-      "Kronos-Integration/service-smtp",
       "Kronos-Integration/test-interceptor",
       "arlac77/SymatemExplorer",
       "arlac77/component-template-designer",
