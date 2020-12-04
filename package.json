@@ -50,7 +50,6 @@
       }
     ],
     "usedBy": [
-      "arlac77/env-auth-provider",
       "arlac77/expression-expander",
       "arlac77/hook-ci-frontend-svelte",
       "arlac77/konsum-frontend-svelte",
