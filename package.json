@@ -53,7 +53,6 @@
       "Kronos-Integration/interceptor-line-header",
       "Kronos-Integration/interceptor-line-parser",
       "Kronos-Integration/interceptor-object-data-processor-chunk",
-      "Kronos-Integration/interceptor-object-data-processor-row",
       "Kronos-Integration/message",
       "Kronos-Integration/service",
       "Kronos-Integration/service-admin",
