@@ -56,7 +56,6 @@
       "Kronos-Integration/service",
       "Kronos-Integration/service-admin",
       "Kronos-Integration/service-authenticator",
-      "Kronos-Integration/service-bullmq",
       "Kronos-Integration/test-interceptor",
       "arlac77/SymatemExplorer",
       "arlac77/component-template-designer",
