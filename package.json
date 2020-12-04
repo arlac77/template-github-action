@@ -59,7 +59,6 @@
       "Kronos-Integration/service-bullmq",
       "Kronos-Integration/service-consul",
       "Kronos-Integration/service-health-check",
-      "Kronos-Integration/service-http",
       "Kronos-Integration/test-interceptor",
       "arlac77/SymatemExplorer",
       "arlac77/component-template-designer",
