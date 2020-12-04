@@ -54,7 +54,6 @@
       "Kronos-Integration/interceptor-object-data-processor-chunk",
       "Kronos-Integration/message",
       "Kronos-Integration/service",
-      "Kronos-Integration/service-admin",
       "Kronos-Integration/test-interceptor",
       "arlac77/SymatemExplorer",
       "arlac77/component-template-designer",
