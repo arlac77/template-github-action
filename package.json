@@ -60,7 +60,6 @@
       "Kronos-Integration/service-consul",
       "Kronos-Integration/service-health-check",
       "Kronos-Integration/service-http",
-      "Kronos-Integration/service-ldap",
       "Kronos-Integration/test-interceptor",
       "arlac77/SymatemExplorer",
       "arlac77/component-template-designer",
