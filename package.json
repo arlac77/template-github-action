@@ -53,7 +53,6 @@
       "Kronos-Integration/interceptor-line-parser",
       "Kronos-Integration/interceptor-object-data-processor-chunk",
       "Kronos-Integration/message",
-      "Kronos-Integration/test-interceptor",
       "arlac77/SymatemExplorer",
       "arlac77/component-template-designer",
       "arlac77/config-expander",
