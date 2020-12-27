@@ -29,6 +29,9 @@ deployment:
 rollup:
   - rollup.config.js
   - rollup.config.mjs
-  
+
+vscode:
+  - ".vscode/*"
+
 labels:
   - .github/pr_labeler.yml
