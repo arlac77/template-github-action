@@ -33,5 +33,8 @@ rollup:
 vscode:
   - ".vscode/*"
 
+openapi:
+  - openapi/*
+
 labels:
   - .github/pr_labeler.yml
