@@ -53,7 +53,8 @@
       "arlac77/hook-ci-frontend-svelte",
       "arlac77/template-arlac77-github",
       "arlac77/uti",
-      "konsumation/konsum-db"
+      "konsumation/konsum-db",
+      "konsumation/konsum-importer"
     ]
   }
 }
