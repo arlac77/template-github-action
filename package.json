@@ -17,6 +17,13 @@
       },
       {
         "type": "YAML",
+        "pattern": ".github/dependabot.yml",
+        "options": {
+          "messagePrefix": "chore(dependabot): "
+        }
+      },
+      {
+        "type": "YAML",
         "pattern": ".github/workflows/*.yml",
         "options": {
           "messagePrefix": "chore(actions): ",
