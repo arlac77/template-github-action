@@ -19,7 +19,15 @@
         "type": "YAML",
         "pattern": ".github/dependabot.yml",
         "options": {
-          "messagePrefix": "chore(dependabot): "
+          "messagePrefix": "chore(dependabot): ",
+          "mergeHints": {
+            "*": {
+              "removeEmpty": true
+            },
+            "*.updates": {
+              "key": "package-ecosystem"
+            }
+          }
         }
       },
       {
