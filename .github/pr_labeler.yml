@@ -21,6 +21,7 @@ git:
 
 npm:
   - .npmignore
+  - package.json
 
 deployment:
   - netlify.toml
