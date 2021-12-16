@@ -10,7 +10,6 @@ jobs:
           - 16.13.1
     steps:
       - uses: actions/checkout@v2
-      - name: --delete-- Cache node modules
       - name: 'Build / Test Node ${{ matrix.node-version }}'
         uses: actions/setup-node@v2
         with:
