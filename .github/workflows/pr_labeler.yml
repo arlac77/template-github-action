@@ -12,5 +12,3 @@ jobs:
         repo-token: "${{ secrets.GITHUB_TOKEN }}"
         configuration-path: .github/pr_labeler.yml
         sync-labels: false
-
-systemd: --delete--
