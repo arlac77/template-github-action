@@ -7,7 +7,6 @@ jobs:
       matrix:
         node-version:
           - -16
-          - -17
           - -18
           - 16.15.0
           - 18.0.0
