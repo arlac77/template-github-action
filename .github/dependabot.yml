@@ -9,7 +9,6 @@ updates:
       prefix-development: 'chore(deps):'
     labels:
       - "npm dependencies"
-
   - package-ecosystem: github-actions
     directory: /
     schedule:
