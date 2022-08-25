@@ -9,6 +9,10 @@
         "pattern": ".travis.yml"
       },
       {
+        "type": "Skip",
+        "pattern": "package-lock.json"
+      },
+      {
         "type": "YAML",
         "pattern": ".github/pr_labeler.yml",
         "options": {
