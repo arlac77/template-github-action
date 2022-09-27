@@ -7,11 +7,11 @@ jobs:
       matrix:
         node-version:
           - -18
-          - 18.9.0
+          - 18.9.1
     steps:
       - uses: actions/checkout@v3
       - name: 'Build / Test Node ${{ matrix.node-version }}'
-        uses: actions/setup-node@v3.4.1
+        uses: actions/setup-node@v3.5.0
         with:
           node-version: '${{ matrix.node-version }}'
           cache: 'npm'
@@ -33,9 +33,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - uses: actions/setup-node@v3.4.1
+      - uses: actions/setup-node@v3.5.0
         with:
-          node-version: 18.9.0
+          node-version: 18.9.1
           cache: 'npm'
       - run: npm ci
       - run: npx semantic-release
