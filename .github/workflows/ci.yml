@@ -8,6 +8,7 @@ jobs:
         node-version:
           - --delete-- 18
           - 18.16.0
+          - --delete-- 19
           - --delete-- 20
           - 20.0.0
     steps:
