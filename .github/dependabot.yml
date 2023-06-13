@@ -13,3 +13,7 @@ updates:
     directory: /
     schedule:
       interval: daily
+    commit-message:
+      prefix: 'chore(action):'
+    labels:
+      - "dependencies"
