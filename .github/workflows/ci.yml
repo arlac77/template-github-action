@@ -16,7 +16,6 @@ jobs:
         node-version:
           - --delete-- 18
           - --delete-- 20
-          - 18.18.2
           - 20.9.0
     steps:
       - uses: actions/checkout@v4
