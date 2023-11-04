@@ -15,8 +15,6 @@ jobs:
         with:
           node-version: ${{ matrix.node-version }}
       - run: rm package-lock.json
-      - --delete-- run: npm install
-      - --delete-- run: npm test
       - run: npm install-test
       - uses: gr2m/create-or-update-pull-request-action@v1
         env:
