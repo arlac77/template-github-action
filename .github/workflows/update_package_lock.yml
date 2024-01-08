@@ -10,7 +10,6 @@ jobs:
         node-version:
           - 20.10.0
         browser:
-          - --delete-- chromium
           - chrome
     steps:
       - uses: actions/checkout@v4.1.1
