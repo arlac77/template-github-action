@@ -1,4 +1,8 @@
 {
+  "publishConfig": {
+    "provenance": true
+  },
+
   "template": {
     "inheridFrom": [
       "arlac77/template-github"
