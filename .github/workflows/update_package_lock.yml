@@ -1,11 +1,11 @@
 name: Update package lock
 "on":
-  workflow_dispatch:
   push:
     paths:
       - package.json
   schedule:
     - cron: 13 8 * * 6
+  workflow_dispatch:
 jobs:
   update_package_lock:
     runs-on: ubuntu-latest
