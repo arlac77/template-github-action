@@ -44,9 +44,6 @@
         "options": {
           "messagePrefix": "chore(actions): ",
           "mergeHints": {
-            "jobs.*": {
-              "removeEmpty": true
-            },
             "*.matrix.node-version": {
               "scope": "deps",
               "merge": "mergeVersionsPreferNumeric"
