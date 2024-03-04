@@ -41,14 +41,14 @@
         "options": {
           "messagePrefix": "chore(actions): ",
           "mergeHints": {
-            "*": {
+            "": {
               "orderBy": [
                 "on",
                 "permissions",
                 "jobs"
               ]
             },
-            "jobs.*": {
+            "jobs.release": {
               "orderBy": [
                 "needs",
                 "runs-on",
