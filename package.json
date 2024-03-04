@@ -46,15 +46,41 @@
                 "name",
                 "on",
                 "permissions",
+                "env",
+                "defaults",
+                "concurrency",
                 "jobs"
+              ]
+            },
+            "jobs.test-node": {
+              "orderBy": [
+                "name",
+                "needs",
+                "if",
+                "runs-on",
+                "strategy",
+                "permissions",
+                "defaults",
+                "concurrency",
+                "outputs",
+                "env",
+                "environments",
+                "steps"
               ]
             },
             "jobs.release": {
               "orderBy": [
+                "name",
                 "needs",
+                "if",
                 "runs-on",
                 "strategy",
                 "permissions",
+                "defaults",
+                "concurrency",
+                "outputs",
+                "env",
+                "environments",
                 "steps"
               ]
             },
