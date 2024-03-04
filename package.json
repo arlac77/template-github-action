@@ -41,6 +41,22 @@
         "options": {
           "messagePrefix": "chore(actions): ",
           "mergeHints": {
+            "*": {
+              "orderBy": [
+                "on",
+                "permissions",
+                "jobs"
+              ]
+            },
+            "jobs.*": {
+              "orderBy": [
+                "needs",
+                "runs-on",
+                "strategy",
+                "permissions",
+                "steps"
+              ]
+            },
             "*.matrix.node-version": {
               "scope": "deps",
               "merge": "mergeVersionsPreferNumeric"
