@@ -43,6 +43,7 @@
           "mergeHints": {
             "": {
               "orderBy": [
+                "name",
                 "on",
                 "permissions",
                 "jobs"
