@@ -65,6 +65,7 @@
                 "outputs",
                 "env",
                 "environments",
+                "services",
                 "steps"
               ]
             },
@@ -81,6 +82,7 @@
                 "outputs",
                 "env",
                 "environments",
+                "services",
                 "steps"
               ]
             },
