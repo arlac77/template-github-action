@@ -52,6 +52,15 @@
                 "jobs"
               ]
             },
+            "jobs": {
+              "orderBy": [
+                "test",
+                "test-node",
+                "test-browser",
+                "release",
+                "finish"
+              ]
+            },
             "jobs.test-node": {
               "orderBy": [
                 "name",
