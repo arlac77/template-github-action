@@ -125,8 +125,7 @@
       "arlac77/repository-provider-cli-support",
       "arlac77/template-arlac77-github",
       "konsumation/konsum-db",
-      "konsumation/konsum-importer",
-      "konsumation/konsum-postgres"
+      "konsumation/konsum-importer"
     ]
   }
 }
