@@ -126,7 +126,8 @@
       "arlac77/template-arlac77-github",
       "konsumation/konsum-db-level",
       "konsumation/konsum-db-postgresql",
-      "konsumation/konsum-importer"
+      "konsumation/konsum-importer",
+      "konsumation/konsum-model"
     ]
   }
 }
