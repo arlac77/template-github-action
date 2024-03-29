@@ -29,7 +29,6 @@ deployment:
   - _redirects
 
 rollup:
-  - --delete-- rollup.config.js
   - rollup.config.mjs
 
 vscode:
