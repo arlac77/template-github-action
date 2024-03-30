@@ -124,10 +124,10 @@
     "usedBy": [
       "arlac77/repository-provider-cli-support",
       "arlac77/template-arlac77-github",
-      "konsumation/konsum-db-level",
-      "konsumation/konsum-db-postgresql",
-      "konsumation/konsum-importer",
-      "konsumation/konsum-model"
+      "konsumation/db-level",
+      "konsumation/db-postgresql",
+      "konsumation/importer",
+      "konsumation/model"
     ]
   }
 }
