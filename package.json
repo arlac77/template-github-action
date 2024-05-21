@@ -95,6 +95,23 @@
                 "steps"
               ]
             },
+            "jobs.finish": {
+              "orderBy": [
+                "name",
+                "needs",
+                "if",
+                "runs-on",
+                "strategy",
+                "permissions",
+                "defaults",
+                "concurrency",
+                "outputs",
+                "env",
+                "environments",
+                "services",
+                "steps"
+              ]
+            },
             "*.matrix.node-version": {
               "scope": "deps",
               "merge": "mergeVersionsPreferNumeric"
