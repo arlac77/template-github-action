@@ -42,3 +42,6 @@ labels:
 
 styling:
   - "**/*.css"
+
+lint:
+  - .stylelintrc.json
