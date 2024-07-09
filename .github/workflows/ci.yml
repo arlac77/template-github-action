@@ -29,7 +29,7 @@ jobs:
           - --delete-- 22.1.0
           - --delete-- 22.2.0
           - --delete-- 22.3.0
-          - 20.15.0
+          - 20.15.1
           - 22.4.0
     steps:
       - uses: actions/checkout@v4.1.7
