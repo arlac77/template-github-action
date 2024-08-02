@@ -145,7 +145,6 @@
       "konsumation/db-level",
       "konsumation/db-postgresql",
       "konsumation/db-test",
-      "konsumation/frontend-svelte",
       "konsumation/importer",
       "konsumation/model"
     ]
