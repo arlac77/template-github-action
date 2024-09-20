@@ -62,7 +62,6 @@ jobs:
   release:
     needs:
       - test-node
-    runs-on: ubuntu-latest
     permissions:
       contents: write
       issues: write
