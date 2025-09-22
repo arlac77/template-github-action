@@ -62,7 +62,7 @@ jobs:
           - --delete-- 24.5.0
           - --delete-- 24.6.0
           - --delete-- 24.7.0
-          - 22.19.5
+          - 22.19.0
           - 24.8.0
     steps:
       - name: checkout
@@ -99,7 +99,7 @@ jobs:
       - name: prepare node
         uses: actions/setup-node@v5.0.0
         with:
-          node-version: 22.19.5
+          node-version: 22.19.0
           cache: npm
           cache-dependency-path: "package-lock.json"
       - name: install
