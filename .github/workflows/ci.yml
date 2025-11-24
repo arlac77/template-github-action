@@ -77,8 +77,8 @@ jobs:
         uses: actions/setup-node@v6.0.0
         with:
           node-version: ${{ matrix.node-version }}
-          cache: npm
-          cache-dependency-path: "package-lock.json"
+          cache: --delete--
+          cache-dependency-path: --delete--
       - name: install
         run: npm ci
       - name: test and coverage
@@ -106,8 +106,8 @@ jobs:
         uses: actions/setup-node@v6.0.0
         with:
           node-version: 24.11.1
-          cache: npm
-          cache-dependency-path: "package-lock.json"
+          cache: --delete--
+          cache-dependency-path: --delete--
       - name: install
         run: npm ci
       - name: release
