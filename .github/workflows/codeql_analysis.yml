@@ -1,11 +1,9 @@
 name: CodeQL
 "on":
   push:
-    branches:
-      - master
+    branches: [master, next]
   pull_request:
-    branches:
-      - master
+    branches: [master, next]
 jobs:
   analyze:
     name: Analyze
