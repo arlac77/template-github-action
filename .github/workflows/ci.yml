@@ -15,7 +15,7 @@ jobs:
     strategy:
       matrix:
         node-version:
-          - --delete-- 24.*
+          - --delete-- /^24.11.*/
           - 24.12.0
     steps:
       - name: checkout
