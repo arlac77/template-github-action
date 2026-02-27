@@ -18,6 +18,7 @@ jobs:
           - --delete-- 24.11.1
           - --delete-- 24.12.0
           - --delete-- 24.13.0
+          - --delete-- 24.13.1
           - 24.14.0
     steps:
       - name: checkout
