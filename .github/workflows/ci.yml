@@ -30,7 +30,7 @@ jobs:
           - --delete-- 26.5.0
           - --delete-- 26.5.1
           - --delete-- 26.6.0
-          - 26.7.0
+          - 26.8.1
     steps:
       - name: checkout
         uses: actions/checkout@v7.0.1
